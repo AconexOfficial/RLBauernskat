@@ -1,0 +1,12 @@
+pip
+wheel
+numpy>=1.16.3
+pytest
+tqdm
+tensorboard
+streamlit
+torchrl
+psutil
+safetensors
+huggingface_hub
+glicko2
